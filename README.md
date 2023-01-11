@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joshforlenza
-- I'm currently a sophomore at NYU studying CS.
-- I'm a beginner with Github, and I'm looking to gain more experience with the platform.
+- I'm currently a junior at NYU studying CS.
 - Anyone can reach me by emailing me at joshforlenza@gmail.com :)
 
 <!---
