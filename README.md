@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshforlenza
-- I'm currently a junior at NYU studying CS.
+- I'm currently a senior at NYU studying CS.
 - Anyone can reach me by emailing me at joshforlenza@gmail.com :)
 
 <!---
