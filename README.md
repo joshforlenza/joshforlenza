@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @joshforlenza
-- I'm currently a senior at NYU studying CS.
-- Anyone can reach me by emailing me at joshforlenza@gmail.com :)
+- Computer Science student at NYU’s College of Arts & Sciences
+- Graduating Spring 2024
+- Looking for new-grad software engineering positions
+- Feel free to connect with me here or contact me at jf4229@nyu.edu!
 
 <!---
 joshforlenza/joshforlenza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
