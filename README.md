@@ -1,5 +1,4 @@
-- Computer Science student at NYU’s College of Arts & Sciences
-- Graduating Spring 2024
+- Recent Computer Science graduate from NYU’s College of Arts & Sciences
 - Looking for new-grad software engineering positions
 - Feel free to connect with me here or contact me at jf4229@nyu.edu!
 
